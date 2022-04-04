@@ -6,3 +6,11 @@
 In progress..
 ## Network architecture
 ![architecture](https://user-images.githubusercontent.com/40446914/154384020-90a5e4a9-1dda-4107-8b0b-6757c2cb6dc4.png)
+## Implementation
+### Requirements
+- Python 3
+- opencv-python 3.4.2.16
+- tensorflow 2.3.1
+- tensorflow-probability 0.11.0
+### Procedure
+In progress..
