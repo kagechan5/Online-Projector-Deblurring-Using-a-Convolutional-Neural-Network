@@ -12,5 +12,6 @@ In progress..
 - opencv-python 3.4.2.16
 - tensorflow 2.3.1
 - tensorflow-probability 0.11.0
-### Procedure
-In progress..
+- Keras 2.4.0
+### Procedure (in progress)
+1. Clone this repository.
