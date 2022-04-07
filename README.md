@@ -2,7 +2,7 @@
 ![result](https://user-images.githubusercontent.com/40446914/154205594-2c8e4233-b0ce-4f95-b58b-b56dd2ff90c2.png)
 - Paper: https://ieeexplore.ieee.org/document/9714047
 - Video: https://youtu.be/MSCj2IIZevw
-## Introduction
+## Highlights
 - This repositry describes how to use the networks used in our paper (i.e., DefocusNet, LuminanceNet, and CompensationNet).
 - The projection image is assumed to be grayscale with a height and width of 256.
 - If you want to project color images, use a network for each channel (i.e., red, green, and blue).
