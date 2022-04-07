@@ -28,7 +28,7 @@
 3. Install our package from PyPI.
 
         pip install onlineProdebnet
-### How to use networks (in progress)
+### How to use networks
 Note that all of the following processes are assumed to be written in source files located under the src folder (e.g., src/main.py).
 1. Load models.
 
