@@ -29,7 +29,7 @@
 
         pip install onlineProdebnet
 ### How to use networks
-Note that all of the following processes are assumed to be written in source files located under the src folder (e.g., src/main.py).
+Note that all of the following processes are assumed to be written in source files located same hierarchy as weight folder.
 1. Load models.
 
         import onlineProdebnet
