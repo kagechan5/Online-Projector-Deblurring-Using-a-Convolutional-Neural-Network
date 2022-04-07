@@ -76,7 +76,9 @@ Note that all of the following processes are assumed to be written in source fil
 
 5. Add 1 to t and repeat steps 3 and 4.
 
-   
+## License
+This software is licensed under the [MIT](LICENSE) license. 
+<br>Copyright © 2022, Yuta Kageyama
         
  
         
