@@ -55,7 +55,7 @@ Note that all of the following processes are assumed to be written in source fil
 
 3. Generate the compensation image.
         
-        input2CompensationNet = np.concatenate([targetImage,defocusMap[0],luminanceMap[0]],-1)
+        input2CompensationNet = np.concatenate([targetImage,defocusMap,luminanceMap],-1)
         compensationImage = CompensationNet.predict(input2CompensationNet)
 
       #### Notes
